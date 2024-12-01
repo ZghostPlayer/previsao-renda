@@ -85,8 +85,8 @@ https://github.com/user-attachments/assets/6fcab94f-32bb-4cab-80bb-1167fc28cc23
 previsao-renda/
 ├── input/                # Dados utilizados no projeto
 ├── output/               # Imagens e resultados gerados
-├── notebooks/            # Jupyter Notebooks com análises iniciais
-├── app.py                # Código principal da aplicação Streamlit
+├── projeto_2.ipynb       # Jupyter Notebooks com análises iniciais
+├── projeto_2.py          # Código principal da aplicação Streamlit
 └── README.md             # Arquivo de descrição do projeto
 ```
 
